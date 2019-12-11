@@ -3,19 +3,18 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Mukul Munjal
+title: Trainee Decision Scientist | Mu-Sigma Lab
+email: mukulmunjal@yahoo.com
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  imukulmunjal
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: imukulmunjal
+hackerrank_username: mukul1995
+interviewbit_username: mukul_munjal
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
